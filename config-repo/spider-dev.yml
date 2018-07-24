@@ -8,5 +8,3 @@ eureka:
   instance:
     prefer-ip-address: true
     instanceId: ${spring.application.name}:${spring.application.instance_id:${server.port}}
-info:
-  profile: default
