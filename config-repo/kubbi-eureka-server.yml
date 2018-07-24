@@ -9,4 +9,4 @@ eureka:
     waitTimeInMsWhenSyncEmpty: 0
 
 info:
-  profile: dev
+  profile: default
